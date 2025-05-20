@@ -4,6 +4,8 @@ I am an observational astrophysicist who specialises in X-ray emissions from gal
 
 My other focus is on the development of open-source software packages for the acquisition, processing, management, and analysis of large samples of archival X-ray data - I am the founder and project lead of the XGA-DAXA ecosystem (I'll come up with a better name at some point), which develops 'X-ray: Generate and Analyse' (XGA) and 'Democratising Archival X-ray Astronomy' (DAXA). Much of time and energy is dedicated to trying to improve access to archival data, and to developing tools that mean we can focus on new analyses over the basic production and analysis of data products. 
 
+If you're interested in any of this, I would love to give a talk at your institution, please reach out - turne540@msu.edu
+
 Please visit my website to explore some of my ongoing projects - [https://davidt3.github.io/#page-top](https://davidt3.github.io/#page-top)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidT3)](https://github.com/anuraghazra/github-readme-stats)
