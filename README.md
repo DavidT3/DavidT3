@@ -4,9 +4,9 @@ I am an observational astrophysicist who specialises in X-ray emissions from gal
 
 My other focus is on the development of open-source software packages for the acquisition, processing, management, and analysis of large samples of archival X-ray data - I am the founder and project lead of the XGA-DAXA ecosystem (I'll come up with a better name at some point), which develops 'X-ray: Generate and Analyse' (XGA) and 'Democratising Archival X-ray Astronomy' (DAXA). Much of time and energy is dedicated to trying to improve access to archival data, and to developing tools that mean we can focus on new analyses over the basic production and analysis of data products. 
 
-I am currently a postdoctoral research associate at Michigan State University, but will soon be an assistant research scientist at University of Maryland - Baltimore County (UMBC) and a staff scientist at the High Energy Astrophysics Science Archive Research Center (HEASARC).
+I am an assistant research scientist at University of Maryland - Baltimore County (UMBC) and a staff scientist at the High Energy Astrophysics Science Archive Research Center (HEASARC).
 
-If you're interested in any of this, I would love to give a talk at your institution, please reach out - turne540@msu.edu
+If you're interested in any of this, I would love to give a talk at your institution, please reach out - david.j.turner@umbc.edu
 
 Please visit my website to explore some of my ongoing projects - [https://davidt3.github.io/#page-top](https://davidt3.github.io/#page-top)
 
