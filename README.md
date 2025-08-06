@@ -8,6 +8,6 @@ I am an assistant research scientist at University of Maryland - Baltimore Count
 
 If you're interested in any of this, I would love to give a talk at your institution, please reach out - david.j.turner@umbc.edu
 
-Please visit my website to explore some of my ongoing projects - [https://davidt3.github.io/#page-top](https://davidt3.github.io/#page-top)
+Please visit my website to explore some of my ongoing projects - [https://davidt3.github.io/](https://davidt3.github.io/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidT3)](https://github.com/anuraghazra/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidT3)](https://github.com/anuraghazra/github-readme-stats)
